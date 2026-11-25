@@ -10,7 +10,7 @@ import './achievements.css';
 const Github=Code2;
 const Linkedin=Code2;
 
-const links={github:'https://github.com/YashRaj2019',linkedin:'#',leetcode:'https://leetcode.com/u/yash_quantum/',geeksforgeeks:'https://www.geeksforgeeks.org/profile/yashraj99',codolio:'https://codolio.com/profile/yash.quantum',email:'mailto:yashraj2659@gmail.com'};
+const links={github:'https://github.com/YashRaj2019',linkedin:'https://www.linkedin.com/in/yashraj99',leetcode:'https://leetcode.com/u/yash_quantum/',geeksforgeeks:'https://www.geeksforgeeks.org/profile/yashraj99',codolio:'https://codolio.com/profile/yash.quantum',email:'mailto:yashraj2659@gmail.com'};
 const projects=[
  {name:'FoodBridge',category:'FULL-STACK · MERN',desc:'A community-driven food rescue platform connecting surplus food with NGOs, shelters, and volunteer couriers.',tech:['React','Node.js','MongoDB','Cloudinary'],tone:'coral',url:'https://github.com/YashRaj2019/FoodBridge',demo:'https://foodbridgecommunity.vercel.app/'},
  {name:'AirGuard AI',category:'AI/ML · FULL-STACK',desc:'An intelligent platform that forecasts urban AQI and turns atmospheric data into evidence-based health guidance.',tech:['React','Spring Boot','FastAPI','PostgreSQL'],tone:'blue',url:'https://github.com/YashRaj2019/AirGuard-AI',demo:'https://airguard-ai-navy.vercel.app'},
